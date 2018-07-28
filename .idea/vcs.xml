@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DQN-DDQN-on-Space-Invaders" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpaceInvaders--v0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gym-Atari-SpaceInvaders-V0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gym-Atari-SpaceInvaders-V0/neon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gym-Atari-SpaceInvaders-V0/opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gym-Atari-SpaceInvaders-V0/simple_dqn" vcs="Git" />
+  </component>
+</project>
